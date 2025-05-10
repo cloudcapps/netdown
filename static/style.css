@@ -1,3 +1,13 @@
+/* Hide the body until the CSS is fully loaded */
+body {
+    visibility: hidden;
+}
+
+/* Show the body once the page is fully loaded */
+body.loaded {
+    visibility: visible;
+}
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
