@@ -1,0 +1,81 @@
+flapped because someone fat-fingered the neighbor IP
+advertised 0.0.0.0/0 as the best route
+timed out while thinking about life
+redirected traffic to a Minecraft server
+caused neighbors to drop and start a flame war in syslog
+advertised a route to "127.0.0.1" as the best path
+rerouted traffic through a server in Antarctica
+stuck in active state because it was "thinking about life"
+advertised a route to "yourmom.com"
+flooded the network with LSAs containing cat pictures
+timed out because someone set the hello timer to 999 seconds
+redirected traffic to a hamster wheel livestream
+rerouted packets to a Minecraft server
+advertised a route to "rickroll.com"
+timed out because it "needed a break"
+failed after someone set the router ID to "1.1.1.1"
+rerouted traffic to a pizza place
+advertised a route to "8.8.8.8" as the only path
+flooded the network with memes instead of LSAs
+rerouted traffic to a hamster wheel livestream
+advertised a route to "192.168.666.0/24"
+flooded the network with pictures of raccoons
+timed out because it "needed some me-time"
+rerouted traffic to a Minecraft server
+advertised a route to "yourmom.com"
+flooded the network with pictures of cats instead of topology updates
+timed out because someone set the hello timer to 999 seconds
+rerouted traffic to a server in the basement
+advertised a route to "localhost"
+timed out because it "wasn't in the mood"
+failed after someone set the MTU to 42
+rerouted traffic to a hamster wheel livestream
+advertised a route to "10.0.0.0/8" as the best path
+flooded the network with pictures of feral hogs
+timed out because it "needed a vacation"
+flapped after someone set the neighbor IP to "yourmom.com"
+rerouted traffic to a server in Antarctica
+advertised a route to "rickroll.com"
+flooded the network with memes instead of LSAs
+timed out because it "wanted to take a nap"
+failed after someone set the router ID to "TotallyLegitRouter"
+rerouted traffic to a Minecraft server
+advertised a route to "yourmom.com"
+flooded the network with pictures of cats instead of topology updates
+timed out because someone set the hello timer to 999 seconds
+flapped after someone fat-fingered the neighbor IP
+redirected traffic to a hamster wheel livestream
+rerouted packets to a Minecraft server
+advertised a route to "rickroll.com"
+timed out because it "needed a break"
+failed after someone set the router ID to "1.1.1.1"
+rerouted traffic to a pizza place
+advertised a route to "8.8.8.8" as the only path
+flooded the network with memes instead of LSAs
+rerouted traffic to a hamster wheel livestream
+advertised a route to "192.168.666.0/24"
+flooded the network with pictures of raccoons
+timed out because it "needed some me-time"
+rerouted traffic to a Minecraft server
+advertised a route to "yourmom.com"
+flooded the network with pictures of cats instead of topology updates
+timed out because someone set the hello timer to 999 seconds
+rerouted traffic to a hamster wheel livestream
+advertised a route to "rickroll.com"
+timed out because it "needed a break"
+failed after someone set the router ID to "TotallyLegitRouter"
+rerouted traffic to a hamster wheel livestream
+advertised a route to "192.168.666.0/24"
+flooded the network with pictures of raccoons
+timed out because it "needed some me-time"
+rerouted traffic to a Minecraft server
+advertised a route to "yourmom.com"
+flooded the network with pictures of cats instead of topology updates
+timed out because someone set the hello timer to 999 seconds
+rerouted traffic to a hamster wheel livestream
+advertised a route to "rickroll.com"
+timed out because it "needed a break"
+failed after someone set the router ID to "1.1.1.1"
+rerouted traffic to a pizza place
+advertised a route to "8.8.8.8" as the only path
+flooded the network with memes instead of LSAs

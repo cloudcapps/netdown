@@ -1,6 +1,30 @@
-/* Hide the body until the CSS is fully loaded */
+/* Hide the body until the page is fully loaded */
 body {
     visibility: hidden;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.reason, .solution {
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.grey {
+    color: grey;
+}
+
+.service {
+    color: blue;
+}
+
+.verb {
+    color: green;
+}
+
+.solution-variable {
+    color: red;
 }
 
 /* Show the body once the page is fully loaded */
@@ -9,8 +33,6 @@ body.loaded {
 }
 
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
@@ -25,12 +47,6 @@ h1 {
     color: #333;
 }
 
-.reason, .solution {
-    font-size: 1.5em;
-    margin: 20px 0;
-    color: #555;
-}
-
 button {
     font-size: 1em;
     padding: 10px 20px;
@@ -43,4 +59,16 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+.subject {
+    color: #FF5733; /* Bright orange for subjects */
+}
+
+.object {
+    color: #75FF33; /* Bright green for objects */
+}
+
+.result {
+    color: #FFC300; /* Bright yellow for results */
 }

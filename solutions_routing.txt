@@ -1,0 +1,49 @@
+reconfigured the BGP session
+updated the OSPF timers
+removed the rogue route advertisement
+added a static route to fix the issue
+replaced the router with a newer model
+enabled route filtering to prevent loops
+disabled the misconfigured route-map
+reduced the hello timer to improve convergence
+added a default route to the configuration
+rebooted the router
+enabled BGP dampening to prevent flapping
+removed the conflicting router ID
+replaced the MPLS label stack
+rerouted traffic through a backup path
+disabled the rogue redistribution policy
+enabled route summarization to reduce LSAs
+replaced the route reflector with a better one
+added a prefix list to block bad routes
+disabled the misconfigured policy map
+enabled fast reroute for better failover
+replaced the router's flash memory
+updated the firmware to fix bugs
+added a route-map to prioritize traffic
+disabled the rogue GRE tunnel
+enabled OSPF authentication
+removed the rogue BGP neighbor
+added a backup link to improve redundancy
+replaced the SD-WAN controller
+enabled path monitoring for better visibility
+disabled the misconfigured NAT policy
+added a static NAT entry to fix the issue
+replaced the DHCP relay configuration
+enabled IP SLA to monitor latency
+removed the conflicting static route
+added a loopback interface for testing
+replaced the MPLS TE configuration
+enabled route redistribution with filters
+disabled the rogue multicast stream
+added a VRF to isolate traffic
+replaced the core router with a better model
+enabled QoS to prioritize critical traffic
+disabled the rogue SNMP community string
+added a backup route to improve failover
+replaced the route reflector with a cloud-based one
+enabled BGP graceful restart
+removed the conflicting OSPF area configuration
+added a static route to fix the issue
+replaced the router's power supply
+enabled route aggregation to reduce table size

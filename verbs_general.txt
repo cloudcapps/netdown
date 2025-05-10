@@ -1,0 +1,76 @@
+crashed because someone fat-fingered the configuration
+went down because it "felt like it"
+stopped working because it was full of memes
+rebooted unexpectedly because it "felt like it"
+was corrupted after someone tried to install Doom on it
+was overloaded by a rogue script mining cryptocurrency
+refused to boot because it "needed a vacation"
+crashed after someone tried to install a browser extension on it
+went offline because it "didn't like the weather"
+stopped responding after detecting a device named "NSA_Surveillance_Van"
+was bricked after someone updated the firmware with a cat video
+rebooted because it "wanted to see what would happen"
+was hacked by a smart fridge running Doom
+crashed after someone used it to charge their electric scooter
+went down because it "felt underappreciated"
+stopped working after detecting a rogue device named "TotallyNotAHacker"
+was corrupted by a cosmic ray during a solar storm
+refused to process requests because it "wasn't in the mood"
+crashed after someone tried to run a blockchain node on it
+went offline because it "needed some me-time"
+stopped working after someone spilled coffee on the console
+was overloaded by a flood of requests to stream 4K videos of feral hogs
+rebooted after detecting a rogue AP named "PrettyFlyForAWiFi"
+crashed because it "couldn't handle the pressure"
+went down after someone plugged in a toaster
+stopped responding because it "was tired of being ignored"
+was bricked after someone tried to install a game on it
+refused to boot because it "didn't like the configuration"
+crashed after someone set the hostname to "yourmom.com"
+went offline because it "wanted to take a nap"
+stopped working after detecting a rogue device named "TotallyLegitPrinter"
+was overloaded by a flood of requests to stream hamster wheel footage
+rebooted unexpectedly because it "wanted to start fresh"
+was corrupted after someone tried to install a cryptocurrency miner on it
+refused to process requests because it "was having a bad day"
+crashed after someone tried to use it as a heater
+went offline because it "didn't feel like working today"
+stopped working after someone saved the configuration to a floppy disk
+was overloaded by a flood of requests to stream cat videos
+rebooted because it "wanted to see if anyone would notice"
+was bricked after someone tried to install a custom ROM on it
+refused to boot because it "didn't like the new firmware"
+crashed after someone tried to use it as a coffee warmer
+went offline because it "was feeling existential"
+stopped working after detecting a rogue device named "DefinitelyNotMalware"
+was overloaded by a flood of requests to stream TikTok videos
+rebooted unexpectedly because it "wanted to try something new"
+was corrupted after someone tried to install a video game on it
+refused to process requests because it "wasn't feeling well"
+crashed after someone tried to use it as a charging station
+went offline because it "needed a break from reality"
+stopped working after someone set the SNMP community string to "password123" and it leaked on Twitter
+was compromised after someone shared the SNMP community string on Reddit
+was disabled because the SNMP community string was set to "admin"
+stopped responding after detecting unauthorized SNMP requests
+was overloaded by a flood of SNMP queries from a rogue device
+stopped updating because someone disabled SNMP polling
+reset to zero after detecting a rogue packet storm
+overflowed after counting too many packets
+froze because it "couldn't handle the pressure"
+reported negative values due to a firmware bug
+caused a routing loop after two devices claimed the same router ID
+stopped working after detecting a duplicate router ID in the network
+flapped because of a router ID conflict with a neighboring device
+timed out while trying to resolve a router ID conflict
+advertised incorrect routes due to a router ID mismatch
+was closed prematurely because the engineer "didn't feel like dealing with it"
+was delayed because someone forgot to attach the logs
+was mishandled after being assigned to the wrong team
+was escalated unnecessarily due to a typo in the description
+was resolved by accident after someone rebooted the device
+was poisoned by a rogue device named "TotallyLegitPrinter"
+overflowed after receiving too many ARP requests
+stopped updating because of a misconfigured VLAN
+was flooded with duplicate entries due to a network loop
+reported incorrect MAC addresses because of a firmware bug

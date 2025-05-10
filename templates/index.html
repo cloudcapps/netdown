@@ -3,20 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Why the fuck is the network down?</title>
+    <title>Why The Fuck is the Network Down?</title>
     <link rel="stylesheet" href="/static/style.css">
-    <style>
-        /* Hide the body until the page is fully loaded */
-        body {
-            visibility: hidden;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
-        <h1>Why the fuck is the network down?</h1>
-        <p class="reason">{{ reason }}</p>
-        <p class="solution">But we have since {{ solution }}, so it will never happen again.</p>
+        <h1>Why The Fuck is the Network Down?</h1>
+        <p class="reason">
+            <span class="grey">The fucking </span>
+            <span class="service">{{ service }}</span>
+            <span class="verb">{{ verb }}</span><span class="grey">.</span>
+        </p>
+        <p class="solution">
+            <span class="grey">But we have since </span>
+            <span class="solution-variable">{{ solution }}</span><span class="grey">, so it will never happen again.</span>
+        </p>
         <form method="get" action="/">
             <button type="submit">Why?</button>
         </form>
