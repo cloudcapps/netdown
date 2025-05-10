@@ -26,7 +26,7 @@ The fucking EIGRP stuck in active state because it was "thinking about life."
 The fucking power supply on the core switch failed because someone used it to charge their phone.
 The fucking VSS pair split-brained after arguing over which one was the primary.
 The fucking wireless controller dropped all APs after detecting a rogue AP named "PrettyFlyForAWiFi."
-The fucking IPsec tunnel failed because someone set the pre-shared key to "hunter2."
+The fucking IPsec tunnel failed because someone set the pre-shared key to "password1234."
 The fucking RADIUS server rejected all authentication requests because it was "having a bad day."
 The fucking SD-WAN controller lost connectivity after someone unplugged it to plug in a fan.
 The fucking NetFlow export stopped working because it was too busy exporting TikTok traffic.
