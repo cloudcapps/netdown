@@ -16,7 +16,7 @@ The fucking NTP server synced time with a sundial.
 The fucking MPLS label switched path rerouted traffic through a server in Antarctica.
 The fucking GRE tunnel collapsed because someone tunneled through it with a shovel.
 The fucking IP SLA probe detected high latency caused by a raccoon chewing on the fiber.
-The fucking syslog server stopped receiving logs because it was full oIP SLAf memes.
+The fucking syslog server stopped receiving logs because it was full of memes.
 The fucking interface counters showed CRC errors caused by cosmic rays.
 The fucking route-map applied to BGP redirected traffic to a Minecraft server.
 The fucking switch stack lost its master and elected a Roomba instead.
