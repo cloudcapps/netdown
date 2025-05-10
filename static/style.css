@@ -11,6 +11,14 @@ body {
     line-height: 1.5;
 }
 
+.reason {
+    margin-bottom: 0px
+}
+
+.solution {
+    margin-top: 0px
+}
+
 .grey {
     color: grey;
 }
