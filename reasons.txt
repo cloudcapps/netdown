@@ -3,7 +3,7 @@ The fucking spanning tree protocol elected the office coffee machine as the root
 The fucking OSPF adjacency failed because someone set the hello timer to 42 seconds for no reason.
 The fucking VLAN trunking protocol decided to prune VLAN 1 because it was "too basic."
 The fucking DHCP server handed out IPs from the 192.168.666.0/24 subnet.
-The fucking NAT translation table was filled with requests to stream cat videos.
+The fucking NAT translation table was filled with requests to stream 24/7 live footage of a hamster wheel.
 The fucking ACL blocked all traffic except to the sysadmin's favorite gaming server.
 The fucking QoS policy prioritized packets from the CEO's Netflix account.
 The fucking HSRP failed over to a router that was powered off.
@@ -25,7 +25,7 @@ The fucking DMVPN hub lost its NHRP mappings after someone spilled coffee on the
 The fucking EIGRP stuck in active state because it was "thinking about life."
 The fucking power supply on the core switch failed because someone used it to charge their phone.
 The fucking VSS pair split-brained after arguing over which one was the primary.
-The fucking wireless controller dropped all APs after detecting a rogue AP named "FreeWiFi4U."
+The fucking wireless controller dropped all APs after detecting a rogue AP named "PrettyFlyForAWiFi."
 The fucking IPsec tunnel failed because someone set the pre-shared key to "hunter2."
 The fucking RADIUS server rejected all authentication requests because it was "having a bad day."
 The fucking SD-WAN controller lost connectivity after someone unplugged it to plug in a fan.
@@ -76,7 +76,7 @@ The fucking VRF configuration leaked routes to the janitor's Spotify playlist.
 The fucking DMVPN hub lost its NHRP mappings after someone spilled coffee on the keyboard.
 The fucking EIGRP stuck in active state because it was "thinking about life."
 The fucking power supply on the core switch failed because someone used it to charge their phone.
-The fucking VSS pair split-brained after arguing over which one was the primary.
+The fucking VSS pair split-brained after arguing over which one deserved to be primary.
 The fucking wireless controller dropped all APs after detecting a rogue AP named "Lord of the Pings."
 The fucking IPsec tunnel failed because someone set the pre-shared key to "hunter2."
 The fucking RADIUS server rejected all authentication requests because it was "having a bad day."

@@ -31,6 +31,7 @@ added a "cybersecurity" sticker to the CEO's laptop
 moved the server rack two inches to the left
 replaced the janitor with a Roomba
 added a second Wi-Fi network called "DefinitelyNotHacked"
+installed a "No Hackers Allowed" doormat at the server room entrance
 watched a Netflix documentary on hacking
 added a "No Hackers Allowed" sign to the office door
 replaced the backup system with a USB drive labeled "Important"
@@ -48,3 +49,54 @@ replaced the server room door with a beaded curtain
 added a "Do Not Unplug" sign to every cable
 replaced the network switch with a fidget spinner
 hired a psychic to predict the next outage
+replaced the firewall with a picture of a brick wall
+added a "No Phishing" poster to the break room
+installed a "Cybersecurity for Dummies" screensaver
+replaced the server with a Raspberry Pi
+hired a mime to silently monitor the network
+added a "Do Not Hack" sticker to the router
+replaced the Ethernet cables with spaghetti
+installed a "404 Not Found" sign on the server room door
+hired a dog to sniff out rogue devices
+added a CAPTCHA to the office Wi-Fi
+replaced the sysadmin with a Magic 8-Ball
+installed a disco ball in the server room for morale
+added a "No Entry" sign to the VLAN configuration
+replaced the CEO's password with "12345"
+hired a parrot to repeat "Don't click that link!"
+added a "Cybersecurity Awareness Day" to the calendar
+replaced the backup tapes with mixtapes
+installed a mirror in the server room to "reflect attacks"
+added a "No Spamming" sign to the email server
+replaced the router firmware with a horoscope app
+hired a magician to "encrypt" the data
+added a "Do Not Disturb" sign to thplaced the router with a Rubik's Cubee firewall
+replaced the switch with a rotary phone
+installed a lava lamp to "lighten the mood"
+added a "No Cats Allowed" sign to the server room
+replaced the DNS server with a Magic 8-Ball
+hired a clown to cheer up the IT team
+added a "No Fishing" sign to the phishing filter
+replaced the syslog server with a diary
+installed a "Cybersecurity Hall of Fame" plaque
+added a "No Chewing Cables" sign for the office dog
+replaced the VPN with a tin can and string
+hired a fortune teller to predict outages
+added a "No Clicking" sign to the CEO's desk
+replaced the firewall rules with a Sudoku puzzle
+installed a "Do Not Touch" sign on every device
+added a "No Streaming" sign to the QoS policy
+replaced the backup system with a Polaroid camera
+hired a mime to silently troubleshoot issues
+added a "No Dancing" sign to the server room
+replaced the VLAN configuration with a crossword puzzle
+installed a "No Entry" sign on the router
+added a "No Singing" policy to the office
+replaced the switch stack with a stack of pancakes
+hired a comedian to lighten the mood during outages
+added a "No Laughing" sign to the IT department
+replaced the sysadmin's chair with a yoga ball
+installed a "No Running" sign in the server room
+hired a DJ to play "Eye of the Tiger" during incidents
+added a "World's Okayest Firewall" trophy to the server room
+
