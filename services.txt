@@ -13,7 +13,7 @@ ARP table
 DNS server
 TACACS+ server
 NTP server
-MPLS label switched path
+MPLS circuit
 GRE tunnel
 IP SLA probe
 syslog server
@@ -33,9 +33,7 @@ NetFlow export
 switchport
 route redistribution
 multicast stream
-TAC case
 firewall
-interface MTU
 redundant link
 switch
 router's flash memory

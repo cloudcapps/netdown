@@ -20,11 +20,6 @@ hired a magician to "make the problem disappear"
 added a motivational poster to the server room
 replaced the team with a Magic 8-Ball
 hired a motivational speaker to inspire the IT team
-replaced the router ID with a unique value
-configured the router to automatically resolve ID conflicts
-updated the network documentation to avoid duplicate router IDs
-rebooted the router to clear the conflict
-disabled the conflicting router ID on the neighboring device
 sent the intern to a week-long seminar on "synergy"
 replaced the Ethernet cables with gold-plated ones
 moved the server rack two inches to the left
@@ -54,8 +49,3 @@ replaced the switch with a rotary phone
 installed a lava lamp to "lighten the mood"
 replaced the backup system with a Polaroid camera
 hired a comedian to lighten the mood during outages
-changed the router ID to a unique value
-configured the router to automatically resolve ID conflicts
-updated the network documentation to avoid duplicate router IDs
-rebooted the router to clear the conflict
-disabled the conflicting router ID on the neighboring device
