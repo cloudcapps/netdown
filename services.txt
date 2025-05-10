@@ -32,12 +32,11 @@ SD-WAN controller
 NetFlow export
 switchport
 route redistribution
-multicast stream
 firewall
 redundant link
 switch
 router's flash memory
-DHCP snooping database
+DHCP server
 port-channel load balancing algorithm
 BGP route reflector
 OSPF LSA

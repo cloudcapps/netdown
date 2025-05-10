@@ -39,7 +39,7 @@ replaced the server with a Raspberry Pi
 replaced the Ethernet cables with spaghetti
 hired a dog to sniff out rogue devices
 added a CAPTCHA to the office Wi-Fi
-replaced the sysadmin with a Magic 8-Ball
+replaced the network admin with a Magic 8-Ball
 hired a parrot to repeat "Don't click that link!"
 added a "Cybersecurity Awareness Day" to the calendar
 replaced the backup tapes with mixtapes
@@ -49,3 +49,6 @@ replaced the switch with a rotary phone
 installed a lava lamp to "lighten the mood"
 replaced the backup system with a Polaroid camera
 hired a comedian to lighten the mood during outages
+had a really fun retrospective
+held an multi-day offsite event that cost more than our hardware budget
+migrated to all new software platforms
