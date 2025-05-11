@@ -9,8 +9,6 @@ blocked all traffic to VLAN 1 because it was "too basic"
 timed out while processing spanning tree calculations
 elected a smart fridge as the root bridge
 pruned VLAN 1 because it "didn't like it"
-flooded the network with VLAN advertisements
-collapsed after detecting a rogue VLAN named "DefinitelyNotAVLAN"
 timed out because it "didn't feel like working"
 rebooted unexpectedly because it "wanted to see what would happen"
 failed to process packets because it "wasn't in the mood"
@@ -36,7 +34,6 @@ flooded the network with BPDUs containing raccoon pictures
 timed out because it "needed a vacation"
 rebooted unexpectedly because it "wanted to start fresh"
 failed to forward packets because it "was tired of working"
-blocked all traffic to VLAN 123 because it "didn't like the number"
+blocked all traffic to VLAN 444 because it "didn't like the number"
 elected a smart toaster as the root bridge
-flooded the network with VLAN advertisements containing jokes
-collapsed after detecting a rogue VLAN named "DefinitelyNotAVLAN"
+flooded the network with VTP advertisements containing jokes

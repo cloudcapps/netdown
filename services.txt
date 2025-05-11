@@ -17,7 +17,6 @@ MPLS circuit
 GRE tunnel
 IP SLA probe
 syslog server
-interface counters
 route-map
 switch stack
 VRF configuration
@@ -42,6 +41,5 @@ BGP route reflector
 OSPF LSA
 wireless network
 core switch CPU
-router ID conflict
 devs
 project manager

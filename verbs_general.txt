@@ -48,8 +48,7 @@ rebooted unexpectedly because it "wanted to try something new"
 was corrupted after someone tried to install a video game on it
 refused to process requests because it "wasn't feeling well"
 crashed after someone tried to use it as a charging station
-went offline because it "needed a break from reality"
-stopped working after someone set the SNMP community string to "password123" and it leaked on Twitter
+went offline because it "needed a break from reality" and it leaked on Twitter
 was compromised after someone shared the SNMP community string on Reddit
 was disabled because the SNMP community string was set to "admin"
 stopped responding after detecting unauthorized SNMP requests
@@ -59,11 +58,6 @@ reset to zero after detecting a rogue packet storm
 overflowed after counting too many packets
 froze because it "couldn't handle the pressure"
 reported negative values due to a firmware bug
-caused a routing loop after two devices claimed the same router ID
-stopped working after detecting a duplicate router ID in the network
-flapped because of a router ID conflict with a neighboring device
-timed out while trying to resolve a router ID conflict
-advertised incorrect routes due to a router ID mismatch
 was closed prematurely because the engineer "didn't feel like dealing with it"
 was delayed because someone forgot to attach the logs
 was mishandled after being assigned to the wrong team
