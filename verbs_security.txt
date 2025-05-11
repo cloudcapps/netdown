@@ -18,7 +18,6 @@ allowed traffic from a rogue AP named "PrettyFlyForAWiFi"
 rejected all requests because it "felt like it"
 leaked sensitive data to a rogue Raspberry Pi
 caused a network outage by blocking syslog traffic
-blocked all traffic except to the janitor's Spotify playlist
 allowed traffic from a rogue device named "TotallyNotASpy"
 rejected requests because it "was tired of working"
 leaked routes to a hamster wheel livestream
@@ -28,18 +27,4 @@ allowed traffic from a rogue device named "DefinitelyNotAHacker"
 rejected all requests because it "needed some me-time"
 leaked sensitive data to a rogue smart toaster
 caused a network outage by blocking all ICMP packets
-blocked all traffic except to the sysadmin's gaming server
 allowed traffic from a rogue device named "TotallyLegitSwitch"
-rejected requests because it "was having a bad day"
-leaked routes to the janitor's Spotify playlist
-caused a broadcast storm by plugging one Ethernet port into another
-blocked all traffic except for cat videos
-allowed traffic from "TotallyLegitPrinter"
-rejected all requests because it "wasn't in the mood"
-leaked sensitive data to a smart fridge
-caused a network outage by blocking DNS traffic
-blocked all traffic except to the CEO's Netflix account
-allowed traffic from a device named "NSA_Surveillance_Van"
-rejected requests because it "needed a break"
-leaked routes to a Minecraft server
-caused a broadcast storm by misconfiguring VLANs

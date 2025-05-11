@@ -24,26 +24,19 @@ timed out because it "needed some me-time"
 rebooted unexpectedly because it "wanted to try something new"
 failed to forward packets because it "was confused"
 blocked all traffic to VLAN 42 because it "didn't like the number"
-timed out while processing spanning tree updates
 elected a toaster as the root bridge
-pruned VLAN 1 because it "was too basic"
 flooded the network with VLAN advertisements containing memes
-collapsed after detecting a rogue VLAN named "DefinitelyNotAVLAN"
 timed out because it "wasn't in the mood"
 rebooted unexpectedly because it "wanted to see if anyone would notice"
 failed to process packets because it "was having a bad day"
 blocked all traffic to VLAN 999 because it "was too high"
-timed out while recalculating spanning tree
 elected a Roomba as the root bridge
 pruned all VLANs except VLAN 0
 flooded the network with BPDUs containing raccoon pictures
-collapsed after detecting a rogue switch named "TotallyLegitSwitch"
 timed out because it "needed a vacation"
 rebooted unexpectedly because it "wanted to start fresh"
 failed to forward packets because it "was tired of working"
 blocked all traffic to VLAN 123 because it "didn't like the number"
-timed out while processing spanning tree calculations
 elected a smart toaster as the root bridge
-pruned VLAN 1 because it "was too basic"
 flooded the network with VLAN advertisements containing jokes
 collapsed after detecting a rogue VLAN named "DefinitelyNotAVLAN"

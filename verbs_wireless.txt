@@ -24,46 +24,8 @@ broadcasted the SSID "PrettyFlyForAWiFi" to the entire neighborhood
 failed to authenticate devices named "TotallyNotAHacker"
 overloaded after streaming 4K videos of raccoons
 timed out because it "wanted to take a nap"
-dropped all APs after detecting a rogue AP named "NSA_Surveillance_Van"
-broadcasted the SSID "YourMom.com" to the entire city
-failed to authenticate devices named "DefinitelyNotMalware"
-overloaded after streaming 24/7 hamster wheel footage
-timed out because it "didn't feel like working today"
-dropped all APs after detecting a rogue AP named "LordOfThePings"
-broadcasted the SSID "DefinitelyNotASpy" to the entire network
-failed to authenticate devices named "TotallyLegitSwitch"
-overloaded after streaming 4K videos of feral hogs
-timed out because it "needed some me-time"
-dropped all APs after detecting a rogue AP named "PrettyFlyForAWiFi"
-broadcasted the SSID "YourMom.com" to the entire network
-failed to authenticate devices named "TotallyLegitPrinter"
-overloaded after detecting a rogue AP named "TotallyNotASpy"
-timed out because it "needed a break"
-failed to broadcast the SSID because it "was shy"
-overloaded after streaming 4K videos of cats
-timed out because it "wanted to take a nap"
-dropped all APs after detecting a rogue AP named "WiFiKing"
-broadcasted the SSID "PrettyFlyForAWiFi" to the entire office
+dropped all APs after detecting a rogue AP named "WiFiQueen"
+broadcasted the SSID "YourMom.com" to the entire building
 failed to authenticate devices named "DefinitelyNotASpy"
 overloaded after streaming 4K videos of hamsters
 timed out because it "needed a coffee break"
-dropped all APs after detecting a rogue AP named "WiFiQueen"
-broadcasted the SSID "YourMom.com" to the entire building
-failed to authenticate devices named "TotallyNotAHacker"
-overloaded after streaming 4K videos of squirrels
-timed out because it "wanted to take a nap"
-dropped all APs after detecting a rogue AP named "WiFiOverlord"
-broadcasted the SSID "PrettyFlyForAWiFi" to the entire campus
-failed to authenticate devices named "DefinitelyNotMalware"
-overloaded after streaming 24/7 hamster wheel footage
-timed out because it "didn't feel like working today"
-dropped all APs after detecting a rogue AP named "LordOfThePings"
-broadcasted the SSID "DefinitelyNotASpy" to the entire network
-failed to authenticate devices named "TotallyLegitSwitch"
-overloaded after streaming 4K videos of raccoons
-timed out because it "needed some me-time"
-dropped all APs after detecting a rogue AP named "PrettyFlyForAWiFi"
-broadcasted the SSID "YourMom.com" to the entire network
-failed to authenticate devices named "TotallyLegitPrinter"
-overloaded after detecting a rogue AP named "TotallyNotASpy"
-timed out because it "needed a break"
